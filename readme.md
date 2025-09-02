@@ -10,11 +10,15 @@
 
 🚀 Ruhon Deb here — turning caffeine and code into battle-ready DevOps pipelines. From Kubernetes sorcery to CI/CD wizardry, I deploy confidence, not just apps.
 
-🚀 **Current Focus**:
-- ☁️ Mastering cloud-native technologies on AWS & GCP
-- 🐳 Container orchestration with Kubernetes in production environments
-- ⚡ Automating everything with Terraform & Ansible
-- 📈 Implementing observability with Prometheus+Grafana stacks
+🚀 Current Focus
+
+🌩️ Architecting scalable cloud solutions with AWS & Azure
+
+🐙 Taming Kubernetes beasts in real-world production clusters
+
+🤖 Automating infra-as-code sorcery using Terraform & Ansible
+
+🔍 Powering observability with Prometheus, Grafana, and a dash of chaos engineering
 
 ---
 
