@@ -1,166 +1,147 @@
-# 👨💻 DevOps Engineer | Cloud & Automation Learner
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%A6" alt="Typing SVG" />
+
+# Hey, I'm Ruhon Deb 👋
+
+### DevOps & Cloud Engineer · SRE · Security Researcher
+
+*Building production-grade infrastructure with Kubernetes, AWS, and GitOps*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhon-deb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohandeb2)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhondeb28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohandevops.co.in)
+
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-🚀 Ruhon Deb here — turning caffeine and code into battle-ready DevOps pipelines. From Kubernetes sorcery to CI/CD wizardry, I deploy confidence, not just apps.
+I'm a **B.Tech CSE graduate (2026)** from Roorkee Institute of Technology who has spent the last two years building production-grade DevOps systems from scratch — not tutorials, but real multi-service platforms with CI/CD, GitOps, observability stacks, and chaos engineering.
 
-🚀 Current Focus
-
-🌩️ Architecting scalable cloud solutions with AWS & Azure
-
-🐙 Taming Kubernetes beasts in real-world production clusters
-
-🤖 Automating infra-as-code sorcery using Terraform & Ansible
-
-🔍 Powering observability with Prometheus, Grafana, and a dash of chaos engineering
-
----
-
-## 🛠️ Technical Arsenal
-
-<!-- Skill Icons Section (Commented Out) 
-
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;&nbsp;
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) &nbsp;
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;
-[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) &nbsp;&nbsp;
-[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) &nbsp;&nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-
--->
-
-### 🖥️ OS & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<!-- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) -->
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-<!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
-
-### 📂 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧩 Programming & Scripting
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-<!-- ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
-
-### 🚀 CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🔐 Security & Compliance
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-<!--  ### 📚 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- -->
-
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rohandeb2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=rohandeb2&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandeb2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohandeb2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 Currently building on **AWS EKS · Kubernetes · Terraform · ArgoCD**
+- 🛡️ **Hall of Fame @ Axway.com** for responsible disclosure of a critical source code exposure vulnerability
+- 📊 Reduced MTTR from 45 min → 8 min on a distributed tracing platform
+- ⚡ Provisioned 11-microservice infra in **12 minutes** with Terraform (down from 4 hours)
+- 🎯 Preparing for **AWS SAA-C03** and **Terraform Associate** certifications
+- 💬 Ask me about Kubernetes failure modes, SLO burn-rate alerting, or GitOps pipelines
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 1. [EasyShop – End-to-End E-commerce Platform Deployment](https://github.com/rohandeb2/Easy-shop-E-commerce)
-[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+### 🏦 [BankApp — Production-Grade Banking Platform on AWS EKS](https://github.com/rohandeb2/sspringboot-bankapp)
+> Spring Boot · Jenkins · ArgoCD · Terraform · Karpenter · Istio · Kyverno · Velero · Prometheus · Grafana · Loki · Tempo
 
-**Tech Stack: Jenkins, Docker, Kubernetes (EKS), Argo CD, Terraform, Trivy, Prometheus, Grafana, AWS, NGINX Ingress.
-
-**Key highlights:**
-- Built and deployed a production-grade e-commerce platform with GitOps CI/CD (Jenkins + Argo CD), reducing deployment time from 4 hrs to 20 min with 99.5% success rate and zero downtime.
-- Provisioned AWS EKS via Terraform and implemented Kubernetes HPA (2–5 replicas, 70% CPU) to sustain 10× traffic spikes without performance loss.
-- Automated SSL/TLS certificates and NGINX Ingress configuration for A+ security rating; ensured 99.99% database uptime with persistent MongoDB volumes and health probes.
+- Architected full CI/CD + GitOps pipeline on EKS; provisioned all infra via **modular Terraform** with S3/DynamoDB state backend
+- **Blue-green deployments** via Argo Rollouts with zero-downtime releases; **Karpenter** for dynamic node autoscaling
+- DevSecOps pipeline: Trivy + OWASP ZAP + SonarQube on every push; **Kyverno admission policies** + **Istio mTLS**
+- Full observability: Prometheus/Grafana/Loki/Tempo; **Velero + MinIO** 6-hour DR backups targeting 99.9% availability
 
 ---
 
-### 2. [Wanderlust – Secure DevOps Workflow Implementation](https://github.com/rohandeb2/Wonderlust-)
-[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+### 📡 [CloudNativeObservability — SRE Platform with SLO/SLI & Chaos Engineering](https://github.com/rohandeb2/observability-SLI_SLO_proj)
+> Prometheus · Grafana · Alertmanager · OpenTelemetry · Jaeger · Tempo · Loki · ArgoCD · Sloth · Chaos Mesh · ELK · FastAPI
 
-**Tech Stack: Jenkins, Argo CD, Docker, Kubernetes (EKS), Terraform, SonarQube, Trivy, OWASP, Prometheus, Grafana
-
-**Key highlights:**
-- Reduced infrastructure costs by 40% via Kubernetes HPA/VPA tuning, multi-stage Docker builds, and Helm-based environment standardization. 
-- Integrated OWASP, Trivy, and SonarQube into CI/CD to detect all known vulnerabilities before production, strengthening security posture.
-- Improved deployment reliability by 90% and cut MTTD by 80% (faster incident detection) with ArgoCD GitOps workflows, Jenkins shared libraries, and Prometheus + Grafana alerting.
----
-
-### 3. [DevSecOps Banking Application – Compliance-Ready CI/CD](https://github.com/rohandeb2/Banking-Application)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  [![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
-
-**Tech Stack: Java, Spring Boot, Docker, Kubernetes (EKS), Jenkins, ArgoCD, OWASP, SonarQube, Trivy, Prometheus, Grafana, Helm
-**Key highlights:**
-- Reduced deployment failures by 90% via a multi-stage CI/CD pipeline with automated OWASP, SonarQube, and Trivy security gates.
-- Deployed a Java banking app on AWS EKS with persistent storage and service mesh networking, achieving 99.9% uptime for 1,000+ concurrent users.
-- Cut deployment time from 4 hrs → 15 min and improved incident detection by 80% using ArgoCD GitOps (auto-sync, rollback), Kubernetes blue-green deployments, and Prometheus + Grafana monitoring.
-
----
-[🔍 Explore All Projects →](https://github.com/rohandeb2?tab=repositories)
+- **OpenTelemetry auto-instrumentation** across 3 FastAPI microservices (5 signal types: metrics, logs, traces, spans, exemplars)
+- **MTTR reduced from 45 min → 8 min** via distributed tracing and log correlation
+- **Sloth-based SLO/SLI**: 32 Prometheus recording rules, multi-burn-rate alerting (14.4×/6×), zero SLO breaches over 90 days; false positives cut **67%**
+- Chaos engineering via Chaos Mesh (pod kill, network latency, CPU stress); alert firing confirmed within **90 sec of fault injection**
+- ArgoCD App-of-Apps GitOps: deploy time **30 min → 90 sec**, zero config drift
 
 ---
 
-## 📬 Let's Collaborate!
+### 🛒 [OnlineBoutique — 11-Microservice E-Commerce Platform on AWS EKS](https://github.com/rohandeb2/onlineboutique-webapp)
+> AWS EKS · Jenkins · ArgoCD · Terraform · Helm · ECR · Route53 · ACM · Trivy · Redis · gRPC · Secrets Manager
 
-I'm always excited to discuss:
-- DevOps best practices
-- Cloud architecture challenges
-- Automation opportunities
-- Open-source contributions
+- Deployed **cloud-native 11-microservice** platform (Java, Go, Python, Node.js, gRPC) on EKS
+- Terraform automation reduced infra provisioning from **4 hours → 12 minutes** (VPC, IAM, 11 ECR repos)
+- **11 parallel Jenkins pipelines** with Trivy scanning; end-to-end deploys under 5 min across dev/staging/prod
+- **40+ vulnerabilities caught pre-production**; zero security incidents over 6 months
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruhon-deb/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Rohan_Deb_8">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:ruhondeb8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Containers & Orchestration**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+
+**CI/CD & GitOps**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+
+**Security & DevSecOps**
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+**Languages & Scripting**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-> "In DevOps, we don't just deploy code - we deploy confidence." 🚀
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🏅 **Hall of Fame — Axway.com** | Responsibly disclosed a critical vulnerability exposing platform source code with full exploitation chain documentation |
+| 🔐 **Security Research** | Disclosed critical vulnerabilities (auth bypass, price tampering, data exposure) across **5+ organizations** with **100% remediation rate** |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ruhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandeb2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandeb2&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for my first **DevOps / Cloud / SRE role** at funded startups (Series A–C) or remote-first companies. If you're building something interesting, reach out.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhon-deb)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhondeb28@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ This profile is maintained as code — just like my infrastructure.</sub>
+</div>
