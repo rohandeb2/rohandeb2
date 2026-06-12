@@ -144,7 +144,7 @@ I'm a **B.Tech CSE graduate (2026)** from Roorkee Institute of Technology who ha
 
 ## 📬 Let's Connect
 
-I'm actively looking for my first **DevOps / Cloud / SRE role** at funded startups (Series A–C) or remote-first companies. If you're building something interesting, reach out.
+I'm actively looking for my first **DevOps / Cloud / SRE role** at funded startups (Series A–C) or any other organization. If you're building something interesting, reach out.
 
 <div align="center">
 
