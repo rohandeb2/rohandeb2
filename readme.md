@@ -1,44 +1,37 @@
-<div align="center">
-
-# Hey, I'm Ruhon Deb 👋
-
-### DevOps & Cloud Engineer · SRE · Security Researcher
-
-</div>
-
+```text
+:.                                                                   .    rohan@devops
+.                                                                         -------------------------------
+.                                                                    .    Host        : Open to DevOps / Cloud roles
+.                         .....::::.....                             .    Education   : BSc Chemistry (self-taught DevOps)
+.                    ....   ..            ...                        .    Shell       : bash / zsh
+.                   .:. .                    ..                      .    
+.                   .                         ..                     .    Languages.Programming : Python, Bash, YAML
+.                 .       .--==+*####**+-.    ..                     .    Stack.Cloud            : AWS
+.                 .     :+#%@@@@@@@@@@@@%#=.  .                      .    Stack.Infra            : Docker, Kubernetes (EKS), Terraform
+.                     .+##%%%%%%%%%%%%%%%@@*:..                      .    Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
+.                    :+#%%@@@@@@@@@@%%%@@@@%*=:                      .    Stack.Observability    : Prometheus, Grafana, Loki, Tempo
+.                  .-+###*+==+#%%##=:.:==+#%##-                      .    Stack.Security         : Kyverno, SonarQube, Trivy, Istio mTLS
+.           .      .=#*-:--:.:-+%#+::------+%%-                      .    
+.          ...... . -#+---::--+#@%#+==::-=**%%*-                     .    Top Pinned Repos
+.           ...... :+*###*+*###%%@%%%###%%@@@%#=                     .    -------------------------------
+.           .......-*##%@@@%#%%%@@%%%#%@@@@%%#*#-                    .    1. springboot-bankapp
+.          ........+**%%%%****==+=-=+#*+#%%##*%@- .                  .       Spring Boot banking platform on AWS EKS
+.              ....=%*###+=**=---:--=**=-=******.......              .       Full DevSecOps: ArgoCD, Istio, Karpenter, Kyverno, Velero
+.               ...:++++*=:..-=+++++=-...=++++-..........            .    
+.      ....... ......-==++=+++*#%%%##***==--==:...........           .    2. observability-SLI_SLO_proj
+.      ...............-====*##*+===+**%#+-::-:...............   ..   .       K8s observability platform across 3 FastAPI microservices
+.          ............::--+#%%#####%%%+-:.::....................    .       Prometheus, ELK, OTel, Jaeger, Tempo, Sloth, Chaos Mesh
+.     ..................::.:=+*#####*+=.  :+:................ .      .    
+.     ..................:+-........:.   :=+*:...............  ....   .    3. k8s-argocd-cicd-platform
+.     . ...............  +++=-.      .:==++*.::............  .....   .       GitOps pipeline: GitHub Actions + ArgoCD + Kustomize
+.       ...............  =*+++=--:::--=++**+..:::::..........        .    
+: ..............::::::.  .+***+=======+****- .:==--:::::.............:    Highlight   : Hall of Fame vulnerability disclosure
+                                                                          
+                                                                          LinkedIn : <your-linkedin-handle>
+                                                                          Email    : <your-email>
+                                                                          GitHub   : rohandeb2
+                                                                          Website  : rohandevops.co.in
 ```
-                                                                  rohan@devops
-                                                                  ------------------------------------------
-                              ..                                  Host       : Open to DevOps / Cloud / SRE roles
-                                                                  Education  : B.Tech CSE 2026, Roorkee Inst. of Tech
-                 ..                                               Shell      : bash / zsh
-
-                         ..::=+*++==-.                            Languages.Programming : Python, Bash, HCL, YAML
-                     .=*#%%%@@@@@@@@@#*-                          Stack.Cloud            : AWS, GCP
-                   .=**#%%%@%%%%%%%%%#%%#:                        Stack.Infra            : Kubernetes, Terraform, Docker, Helm
-                  :+**#%@@@@@@@@@@@@@@@@%*-:                      Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
-                .:=*#**===+#%###=:.:-==*##*=                      Stack.Observability    : Prometheus, Grafana, OpenTelemetry
-                .+*=:::.  .-+#*=. .:-:::-*#+
-                 ++-:::.:::-*@%+=--..::-+*%*=.                    Top Pinned Repos
-                -+*+++==+***#%@%******#%@%#**.                    ------------------------------------------
-                =+*#%@@@%###%@@%%%##@@@@%##*++                    1. BankApp
-               .++*##%#*+++-===--+*++*###***##                       Banking platform on AWS EKS — Terraform,
-               .#*****=-*+-:::.:::++=:-+++++*=                       ArgoCD, Istio, Karpenter, Kyverno, Velero
-                -===++:...:-==--=-:   .=====.
-                  --===-=-=+*###**+=+---:--:                      2. CloudNativeObservability
-                  .----=*#*+=--==++##+-::::.                         SRE platform — OTel, SLO/SLI, Chaos Mesh,
-                    ..:-+*##*****###+-.  ..                          MTTR 45min -> 8min
-                     :. :=+**####*+=.   --    .
-                     :=:    .   .     :=+- . .                    3. OnlineBoutique
-                   .  +==-.        .:-==+- :.                        11-microservice e-commerce on EKS —
-                 .    =+===-::...::-==+++: .:....                    Terraform, Jenkins, Trivy, ArgoCD
-            ......    :++++=-------=++++=   :--::.:....
-
-LinkedIn : ruhon-deb
-Email    : ruhondeb28@gmail.com
-GitHub   : rohandeb2
-```
-
 ---
 
 ## 🚀 Overview
@@ -188,37 +181,3 @@ I'm actively looking for my first **DevOps / Cloud / SRE role** at funded startu
 
 
 ```text
-```text
-,'.............................`.`.`.````.``.``.```.``.`...`.`..`.............."    rohan@devops
-' .                  . . . ... . ......... ............... . .. .. .           `    -------------------------------
-` ...... .. . . .....................................................  .       `    Host        : Open to DevOps / Cloud roles
-` .. . ......... . .. .. . .....`````''''`'```.`.................. . .  .   .. `    Education   : BSc Chemistry (self-taught DevOps)
-' ......... ........... .````'''''''"''''``''`.''``................ .    . . . `    Shell       : bash / zsh
-` .....................'"'"'`. .`'`... ..`.. ...``''`............... .  . .. . `    
-` ....................`'''`````....`           .   .''............. . ... .  . `    Languages.Programming : Python, Bash, YAML
-' ...................``'..`.`.       ....        .  `''.............  . .. ..  '    Stack.Cloud            : AWS
-`..............`.`.`''`.....  `",,:;;+***=++~;'.    .'`...`.............. .    `    Stack.Infra            : Docker, Kubernetes (EKS), Terraform
-' ................`.`'..   `"~=#%%%@@@@@@@@@@%*+,.  `'.`.`.`.................. '    Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
-`.............`.``.```    "-=**#%@@@@@@@@@@%###@%+'.'`.`.`.................... '    Stack.Observability    : Prometheus, Grafana, Loki, Tempo
-'....`.........``.`.``. .:+===*%@@@@@@@@@@@@@@%%%#~,,'.`````.`.`.`.............'    Stack.Security         : Kyverno, SonarQube, Trivy, Istio mTLS
-`.......`.``.`````````'`,~**##%%%%%@@@@%#====##%@#=+-'.``.```.`.`.`..........`.`    
-'.....`..`````````````':~=*+-;""'"-====~,`.`",,,~*#=='.````.``.``..`..`.....`..'    Top Pinned Repos
-'.......```````````````-=+,",::,'",;=#=-,":;;;;,,;=%='.``.``.`````..`.`.`.`....`    -------------------------------
-`.`.`...`.`````'``````.:*-:,,,""::;~#@%+-;;"'",:~+=%=+,.`````.````````.`.`..`..'    1. springboot-bankapp
-'.`...`.````````````'`:~=+=+~;-~+===%@@****===*%@@%#*=:.````````````````.``....`       Spring Boot banking platform on AWS EKS
-'.```.```````````'`'``;+==*%@@@@%###@@@@###%@@@@@@#*=-*'````````````````````.`.'       Full DevSecOps: ArgoCD, Istio, Karpenter, Kyverno, Velero
-'..````.```````'``'`'`+~+*#%%%#~~=+-==+-+*+~+=#%##*===%,.`````````````````.``..'    
-'.`.`````````````''''`=++***=+;=*~,,:,":":=*+;-++=+++#%'``````````````````````.'    2. observability-SLI_SLO_proj
-`.``.``.````````````'`-%~++++,:--::;,:,:;:;-:,";~~~~+-,`''````'```````````````.'       K8s observability platform across 3 FastAPI microservices
-'.`.````````````````''":---~+,'``,;-~~~---;`''`-~;--~``''`'`'`````````````````.'       Prometheus, ELK, OTel, Jaeger, Tempo, Sloth, Chaos Mesh
-'.`````````````````''''`"-;-~-;++~~+****===+*=;;:,:;:`'''`''`'`'``````````````.'    
-'.`````````'`'````'`''''',;:-;;=*=+~-;;;-~~=*+;,,,,:"''''''`'`'''`````````````.'    3. k8s-argocd-cicd-platform
-'.`````````````'`'`'''''''"",::~=**=+~~+=*##*-:"'`,"'''''''''''`'`````````````.'       GitOps pipeline: GitHub Actions + ArgoCD + Kustomize
-'.``````````````'`''''''''''"'':++*##%%%##*+-"..`;;`''''''''''`'````'`````````.'    
-'.`````````'`'`````''''''`'`~;'`'",;;::;;:"'...,-+;''''"''''`'````'```````````.'    Highlight   : Hall of Fame vulnerability disclosure
-'`````````````'`'`''''''''".:+-:''`. .  ....',;--=,`,'"'''''``'```'`````'`````.'    
-'.````````'`''`'``''''''''' ,+---;,"'````'":;;-~~=,.,"'''''''`''`'`````````````'    LinkedIn : <your-linkedin-handle>
-'.```````````'``'``''''""'. .~+~~-;;:,,",,:;--~+~='.':,,,"'''``''`'```````````.'    Email    : <your-email>
-'`````'`''''''''''"'"""''``..,+~+~~-;;;;;;;-~~+++;.`'";::,,,,,""''''''`'```````'    GitHub   : rohandeb2
-                                                                                    Website  : rohandevops.co.in
-```
