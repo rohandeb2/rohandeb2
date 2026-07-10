@@ -4,16 +4,42 @@
 
 ### DevOps & Cloud Engineer · SRE · Security Researcher
 
-*Building production-grade infrastructure with Kubernetes, AWS, and GitOps*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhon-deb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohandeb2)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhondeb28@gmail.com)
 </div>
+
+```
+                                                      rohan@devops
+                                                      ------------------------------------------
+                                                      Host       : Open to DevOps / Cloud / SRE roles
+                                                      Education  : B.Tech CSE 2026, Roorkee Inst. of Tech
+                    ...........                       Shell      : bash / zsh
+                  ::.         ...
+               ....  ::-=+==:  ..                     Languages.Programming : Python, Bash, HCL, YAML
+              .... :*@@@@@@@@#-....                   Stack.Cloud            : AWS, GCP
+           .......-#%#*%%#++*#%=......    ..          Stack.Infra            : Kubernetes, Terraform, Docker, Helm
+        .  .......**=--*%#===+%#:..........           Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
+      ...........-#%%#%%%%%%%@@%=..........           Stack.Observability    : Prometheus, Grafana, OpenTelemetry
+       ..........=%%%**++=+*+###+...........
+       ..........:=**=+****+=++=::...........      .  Top Pinned Repos
+      ..........:::-=+%%##%%+:-:::::.........      .  ------------------------------------------
+     ...........::::---====-:==::::...........     .  1. BankApp
+  ..............:::.:#+-:.:=*#-:-:::...........    .     Banking platform on AWS EKS — Terraform,
+   ..  .....:::::::. =#*+++*#*..-=----::........   .     ArgoCD, Istio, Karpenter, Kyverno, Velero
+       ..::::::....   +%####%-    :-:------:.....  .
+    ...::::.....       -#@@@=    .::::::::--:....  .  2. CloudNativeObservability
+   ...................   -*=  ...::::::::..:::...  .     SRE platform — OTel, SLO/SLI, Chaos Mesh,
+   .... ..................  ....::::::::.... :...  .     MTTR 45min -> 8min
+   ...        ............ .....::::::::..   ..... .
+    .           ........   ........:::...     ..   .  3. OnlineBoutique
+  ...           .......... .............      ...  .     11-microservice e-commerce on EKS —
+                                                         Terraform, Jenkins, Trivy, ArgoCD
+LinkedIn : ruhon-deb
+Email    : ruhondeb28@gmail.com
+GitHub   : rohandeb2
+```
 
 ---
 
-## 🚀 About Me
+## 🚀 Overview
 
 I'm a **B.Tech CSE graduate (2026)** from Roorkee Institute of Technology who has spent the last two years building production-grade DevOps systems from scratch — not tutorials, but real multi-service platforms with CI/CD, GitOps, observability stacks, and chaos engineering.
 
@@ -25,7 +51,6 @@ I'm a **B.Tech CSE graduate (2026)** from Roorkee Institute of Technology who ha
 - 💬 Ask me about Kubernetes failure modes, SLO burn-rate alerting, or GitOps pipelines
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +114,7 @@ I'm a **B.Tech CSE graduate (2026)** from Roorkee Institute of Technology who ha
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Top Pinned Projects
 
 ### 🏦 [BankApp — Production-Grade Banking Platform on AWS EKS](https://github.com/rohandeb2/sspringboot-bankapp)
 > Spring Boot · Jenkins · ArgoCD · Terraform · Karpenter · Istio · Kyverno · Velero · Prometheus · Grafana · Loki · Tempo
