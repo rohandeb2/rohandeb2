@@ -27,7 +27,7 @@
 .       ...............  =*+++=--:::--=++**+..:::::..........        .    
 : ..............::::::.  .+***+=======+****- .:==--:::::.............:    Highlight   : Hall of Fame vulnerability disclosure
                                                                           
-                                                                          LinkedIn : https://linkedln.com/ruhon-deb
+                                                                          LinkedIn : https://www.linkedin.com/in/ruhon-deb/
                                                                           Email    : ruhondeb28@gmail.com
                                                                           GitHub   : rohandeb2
                                                                           Website  : rohandevops.co.in
