@@ -1,29 +1,45 @@
+<div align="center">
+
+# Hey, I'm Ruhon Deb 👋
+
+### DevOps & Cloud Engineer · SRE · Security Researcher
+
+</div>
+
 ```
-                                                      rohan@devops
-                                                      ------------------------------------------
-                                                      Host       : Open to DevOps / Cloud / SRE roles
-                                                      Education  : B.Tech CSE 2026, Roorkee Inst. of Tech
-                    ...........                       Shell      : bash / zsh
-                  ::.         ...
-               ....  ::-=+==:  ..                     Languages.Programming : Python, Bash, HCL, YAML
-              .... :*@@@@@@@@#-....                   Stack.Cloud            : AWS, GCP
-           .......-#%#*%%#++*#%=......    ..          Stack.Infra            : Kubernetes, Terraform, Docker, Helm
-        .  .......**=--*%#===+%#:..........           Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
-      ...........-#%%#%%%%%%%@@%=..........           Stack.Observability    : Prometheus, Grafana, OpenTelemetry
-       ..........=%%%**++=+*+###+...........
-       ..........:=**=+****+=++=::...........      .  Top Pinned Repos
-      ..........:::-=+%%##%%+:-:::::.........      .  ------------------------------------------
-     ...........::::---====-:==::::...........     .  1. BankApp
-  ..............:::.:#+-:.:=*#-:-:::...........    .     Banking platform on AWS EKS — Terraform,
-   ..  .....:::::::. =#*+++*#*..-=----::........   .     ArgoCD, Istio, Karpenter, Kyverno, Velero
-       ..::::::....   +%####%-    :-:------:.....  .
-    ...::::.....       -#@@@=    .::::::::--:....  .  2. CloudNativeObservability
-   ...................   -*=  ...::::::::..:::...  .     SRE platform — OTel, SLO/SLI, Chaos Mesh,
-   .... ..................  ....::::::::.... :...  .     MTTR 45min -> 8min
-   ...        ............ .....::::::::..   ..... .
-    .           ........   ........:::...     ..   .  3. OnlineBoutique
-  ...           .......... .............      ...  .     11-microservice e-commerce on EKS —
-                                                         Terraform, Jenkins, Trivy, ArgoCD
+                                                                  rohan@devops
+                                                                  ------------------------------------------
+                                                                  Host       : Open to DevOps / Cloud / SRE roles
+                                                                  Education  : B.Tech CSE 2026, Roorkee Inst. of Tech
+                                                                  Shell      : bash / zsh
+                           . ...
+                     ..                                           Languages.Programming : Python, Bash, HCL, YAML
+                              ..        .                         Stack.Cloud            : AWS, GCP
+                        :=**##%@%%%*-                             Stack.Infra            : Kubernetes, Terraform, Docker, Helm
+                      .+#%@@@@@@@@@@@%:.                          Stack.GitOps           : ArgoCD, Jenkins, GitHub Actions
+                     :#%####%%%%*+*##%#+.                         Stack.Observability    : Prometheus, Grafana, OpenTelemetry
+                    :*+--:..=##=..:::=##.
+                    :*=--:-=+%%*+=-=+*%%+                         Top Pinned Repos
+                   .=*#%%%#%%@@%%%%@@@%#*-                        ------------------------------------------
+                   .**#%#**+-==-=#**###*%+                        1. BankApp
+                   .+*+*=:--------:.-+++=.                           Banking platform on AWS EKS — Terraform,
+                   ..:=+=-==+*#**===----.                            ArgoCD, Istio, Karpenter, Kyverno, Velero
+                   ...:--+##*+++*#%+:.:.....
+                  ...  .:.-*#####*-  :-.......                    2. CloudNativeObservability
+                  ......=-..       .-+-.....                         SRE platform — OTel, SLO/SLI, Chaos Mesh,
+                  ..... =*+-:.  .:=++*:.:....                        MTTR 45min -> 8min
+               .......   ++++=--==++*+  :--::::...
+           .......       .++++===++++.    .::::::::::.            3. OnlineBoutique
+        ......            .*#****###=       .......::--:.            11-microservice e-commerce on EKS —
+      ....                  =%@@@%@+        ...........::-.          Terraform, Jenkins, Trivy, ArgoCD
+    ..                        -#@@*        ........  . . .:.
+                                -+         ........        .
+                                         ..........         .
+                                         ...... ..          ..
+                                         ...... ..
+                                             .  .
+
+
 LinkedIn : ruhon-deb
 Email    : ruhondeb28@gmail.com
 GitHub   : rohandeb2
