@@ -1,11 +1,3 @@
-<div align="center">
-
-# Hey, I'm Ruhon Deb 👋
-
-### DevOps & Cloud Engineer · SRE · Security Researcher
-
-</div>
-
 ```
                                                                   rohan@devops
                                                                   ------------------------------------------
